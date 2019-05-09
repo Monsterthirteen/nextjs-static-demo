@@ -9,6 +9,8 @@
 ### <a name="start">⊙ 启动</a>
 `yarn dev`后访问`localhost:3000`
 
+(๑•̀ㅂ•́)و✧
+
 ***
 
 ## <a name="features">&sect; 技术栈</a>
